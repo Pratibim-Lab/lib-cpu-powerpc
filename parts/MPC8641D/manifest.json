@@ -1,0 +1,17 @@
+{
+  "id": "CPU_PowerPC/MPC8641D:MPC8641D",
+  "name": "MPC8641D",
+  "library": "CPU_PowerPC",
+  "file": "CPU_PowerPC.kicad_symdir/MPC8641D.kicad_sym",
+  "description": "Freescale PowerPC E600 core, package BGA1023 pins pitch 1mm",
+  "datasheet": "",
+  "keywords": "POWERPC",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-powerpc@master/parts/MPC8641D/",
+  "part_path": "parts/MPC8641D",
+  "symbol_file": "parts/MPC8641D/MPC8641D.kicad_sym",
+  "source_library": "CPU_PowerPC.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:36.298Z"
+}
